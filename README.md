@@ -20,7 +20,7 @@ The following platforms are officially supported:
 * RHEL 7 and compatible (including CentOS 7):
     * [64-bit](https://onstatic.s3.amazonaws.com/ona/master/ona-service_RHEL_7_amd64.rpm)
 * Raspberry Pi 2 Model B with Raspbian:
-    * [32-bit armhf](https://onstatic.s3.amazonaws.com/ona/master/ona-service_RaspbianJessie_armhf.deb)
+    * [32-bit armhf](https://onstatic.s3.amazonaws.com/ona-service/master/ona-service_RaspbianJessie_armhf.deb)
 * Docker (tested with CoreOS):
     * [64-bit](https://github.com/obsrvbl/ona/blob/master/images/docker/Dockerfile)
 
